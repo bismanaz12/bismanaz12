@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Bisma
 - 👀 I’m interested in Android & IOS development
-- 🌱 I’m currently learning Flutter and Dart
 - 📫 LinkedIn ---> www.linkedin.com/in/bisma-dev
 - 📫 Mail ---> bismanaz333@gmail.com
 <!---
