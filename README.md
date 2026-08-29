@@ -133,6 +133,5 @@ My goal is to combine strong software engineering skills with business and produ
 
 ## Let's Connect
 
-- [LinkedIn](YOUR_LINKEDIN_URL)
-- [Email](mailto:YOUR_EMAIL)
-- [Portfolio](YOUR_PORTFOLIO_URL)
+- [LinkedIn](https://www.linkedin.com/in/bisma-dev/)
+- [Email](mailto:bismanaz674@gmail.com)
