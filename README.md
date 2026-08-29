@@ -1,4 +1,4 @@
-# Hi, I'm Bisma Naz
+# Hi, I'm Bisma
 
 ### Flutter Developer | Mobile & Full-Stack Development | Exploring AI & Backend
 
