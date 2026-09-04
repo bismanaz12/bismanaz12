@@ -1,6 +1,6 @@
-# Hi, I'm Bisma
+# Hi, I'm Bisma 👋
 
-### Flutter Developer | Mobile & Full-Stack Development | Exploring AI & Backend
+### Flutter Developer | Mobile & Backend Development | Exploring AI
 
 I am a software developer with more than five years of hands-on experience building refined, high-performance mobile applications. I specialize in Flutter, custom UI/UX, performance optimization, and developing production-ready applications.
 
@@ -29,9 +29,11 @@ My experience includes:
 - Video editing and visual content creation
 - Working across multiple programming languages and technologies
 
-I am comfortable adapting to different technologies depending on project requirements and have worked across **Flutter, Kotlin, JavaScript, Node.js, Python, Firebase, and databases**, while continuously expanding my skills in backend development and AI.
+I am comfortable adapting to different technologies depending on project requirements and have worked across **Flutter, Kotlin, JavaScript, Node.js, Python and Firebase**, while continuously expanding my skills in backend development and AI.
 
-Alongside technology, I am developing my knowledge of **business, product strategy, and marketing** through my BBIT studies.
+I enjoy working on complex problems, learning new technologies quickly, and finding practical solutions across different areas of software development.
+
+Alongside technology, I am developing my knowledge of **business, product strategy, entrepreneurship, and marketing** through my BBIT studies.
 
 ---
 
@@ -47,8 +49,6 @@ Alongside technology, I am developing my knowledge of **business, product strate
 ### Backend & Databases
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Programming Languages
@@ -65,23 +65,39 @@ Alongside technology, I am developing my knowledge of **business, product strate
 - Firebase Analytics
 - Firebase Remote Config
 - Firebase Storage
+- Firebase Crashlytics
 
 ### Design & UI/UX
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 - Custom UI/UX
+- Visual design
 - Responsive design
-- Flutter animations
+- Custom animations
 - Interactive interfaces
 - Design prototyping
+- Product-focused experiences
 
 ### AI & Automation
 
 - AI API integrations
-- Python scripting
+- AI-assisted design workflows
 - AI-powered applications
+- Python scripting
 - Automation
+- AI-assisted visual content creation
+
+### Monetization & Product
+
+- Google AdMob
+- Google Ads
+- In-App Purchases
+- Subscriptions
+- Rewarded Ads
+- Analytics
+- Remote Configuration
+- User engagement and monetization flows
 
 ---
 
@@ -89,31 +105,82 @@ Alongside technology, I am developing my knowledge of **business, product strate
 
 ### Drawing App
 
-A Flutter application focused on interactive drawing and coloring experiences, custom UI, performance optimization, user engagement, and monetization.
+A production Flutter application focused on interactive drawing and coloring experiences, custom UI/UX, animations, performance optimization, user engagement, and monetization.
 
 **Technologies:** Flutter, Dart, Firebase, AdMob, Analytics, Remote Config
 
+**Highlights:**
+
+- Custom drawing and coloring experiences
+- Game-inspired UI/UX
+- Custom animations and interactive content
+- Multiple drawing tools
+- Rewards and coins system
+- Rewarded advertisements
+- Subscription features
+- Performance optimization
+- Crash and ANR management
+
+[View Case Study](https://github.com/bismanaz12/flutter-drawing-app-case-study)
+
+---
+
 ### Invoice Maker
 
-A mobile application for creating and managing professional invoices, with a focus on usability, performance, and product-driven features.
+A production Flutter application for creating and managing professional invoices, focused on business workflows, usability, reporting, monetization, and product-driven features.
 
-**Technologies:** Flutter, Dart, Firebase, Google Ads, Analytics
+**Technologies:** Flutter, Dart, Firebase, AdMob, Analytics
+
+**Highlights:**
+
+- Invoice creation and management
+- Business, client, and item management
+- Invoice status and payment tracking
+- Estimates and receipts
+- Custom invoice templates
+- Reports, charts, and analytics
+- PDF generation, printing, and sharing
+- Notifications and payment updates
+- Subscription features
+
+[View Case Study](https://github.com/bismanaz12/flutter-invoice-maker-case-study)
+
+---
 
 ### GPS / Circle App
 
-A location-based application featuring circle management, invitations, location services, notifications, and user-focused onboarding.
+An Android application built with Kotlin and supported by a Node.js backend, focused on circle management, location tracking, routes, directions, notifications, and location-based experiences.
 
-**Technologies:** Flutter, Firebase, Location Services, Notifications
+**Technologies:** Kotlin, Android, Node.js, JavaScript, Firebase, Maps, Location Services
+
+**Highlights:**
+
+- Circle creation and joining
+- Member invitations and admin approval
+- Circle member management
+- Map-based location tracking
+- Member location history
+- Routes and directions
+- Distance calculation
+- Navigation experiences
+- Notifications
+- Node.js backend integration
+- Subscription features
+
+[View Case Study](https://github.com/bismanaz12/gps-circle-location-tracking-case-study)
 
 ---
 
 ## Currently Learning
+
+I am continuously expanding my technical skills and currently focusing on:
 
 - Backend development with **Node.js & Express.js**
 - **MongoDB** and backend architecture
 - Advanced **JavaScript**
 - **AI integration** and AI-powered applications
 - Python for automation and AI-related scripting
+- REST APIs and server-side development
 - Software architecture
 - Modern backend and cloud technologies
 
@@ -126,15 +193,17 @@ Virtual University of Pakistan
 
 Alongside my technical education, I am developing my understanding of **business, product development, entrepreneurship, and marketing**.
 
+This combination allows me to explore technology not only from an engineering perspective, but also from a **product and business perspective**.
+
 ---
 
 ## Career Interests
 
 I am interested in opportunities involving:
 
-**Mobile Development, Full-Stack Development, Backend Engineering, AI, Product Development, Business & Technology**
+**Mobile Development · Backend Engineering · Full-Stack Development · AI · UI/UX · Product Development · Business & Technology**
 
-My goal is to combine strong software engineering skills with business and product knowledge to build meaningful technology solutions.
+My goal is to combine strong software engineering skills, creative design thinking, problem-solving, and business knowledge to build meaningful technology solutions.
 
 ---
 
