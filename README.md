@@ -10,19 +10,26 @@ I am currently pursuing a **BS in Business & Information Technology (BBIT) at Vi
 
 ## About Me
 
-I enjoy turning ideas into user-friendly applications and solving real-world product and engineering challenges.
+I enjoy turning ideas into polished, user-friendly applications and solving real-world product and engineering challenges.
 
-My experience includes working with both **client-based and product-based applications**, with a strong focus on:
+Alongside my development experience, I have a strong sense of **UI/UX, visual design, and product experience**. I enjoy creating custom interfaces, animations, interactive experiences, and engaging visual content that make applications feel polished and intuitive.
 
-- Mobile application development with Flutter
-- Custom UI/UX, animations, and interactive experiences
+My experience includes:
+
+- Mobile application development
+- Custom UI/UX and visual design
+- Custom animations and interactive experiences
 - Performance optimization
 - Crash and ANR management
 - Firebase integration, Analytics, and Remote Config
 - Google Ads, AdMob, subscriptions, and monetization
-- Production-ready application development
+- Problem-solving and debugging
+- AI-assisted design and content workflows
+- Python scripting and automation
+- Video editing and visual content creation
+- Working across multiple programming languages and technologies
 
-I am currently expanding into **backend development and AI**, focusing on **Node.js, Express.js, MongoDB, JavaScript, Python, and AI integrations**.
+I am comfortable adapting to different technologies depending on project requirements and have worked across **Flutter, Kotlin, JavaScript, Node.js, Python, Firebase, and databases**, while continuously expanding my skills in backend development and AI.
 
 Alongside technology, I am developing my knowledge of **business, product strategy, and marketing** through my BBIT studies.
 
